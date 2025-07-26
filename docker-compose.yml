@@ -3,7 +3,7 @@ services:
     build:
       context: .
       dockerfile: Dockerfile
-    image: ai-butler:latest   # 명시적으로 이미지 이름 지정
+    image: XXXX-XXXX:XXXX   # 명시적으로 이미지 이름 지정
     ports:
       - "8000:8000"
     volumes:
