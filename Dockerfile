@@ -1,7 +1,7 @@
 # 최신의 ubuntu 이미지를 기반으로 설정
 FROM python:3.13-slim
 # 사용자
-LABEL authors="iwill"
+LABEL authors="XXXX"
 
 # 작업 디렉토리 설정
 WORKDIR /app
